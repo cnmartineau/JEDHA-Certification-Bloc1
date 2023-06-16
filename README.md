@@ -1,6 +1,6 @@
 # Bloc 1 - Construction et alimentation d'une infrastructure de gestion de données - Plan your trip with Kayak
 
-Presentation video: "https://share.vidyard.com/watch/N4gcJVuDzm7LiDTLhYbdMq?"
+[Presentation video](https://share.vidyard.com/watch/N4gcJVuDzm7LiDTLhYbdMq?)
 
 ### Introduction
 
