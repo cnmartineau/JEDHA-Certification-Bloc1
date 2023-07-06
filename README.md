@@ -1,7 +1,5 @@
 # Bloc 1 - Construction et alimentation d'une infrastructure de gestion de données - Plan your trip with Kayak
 
-[Presentation video](https://share.vidyard.com/watch/N4gcJVuDzm7LiDTLhYbdMq?)
-
 ### Introduction
 
 Kayak is a metasearch engine founded in 2004. The Kayak's website and mobile apps are available in about 30 countries and 20 languages to help travelers making decisions about their future trips.
